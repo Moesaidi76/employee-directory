@@ -1,55 +1,47 @@
-# Unit 19 React Homework: Employee Directory
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Overview
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Mohamed-Blue)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## User Story
+## Available Scripts
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+In the project directory, you can run:
 
-## Business Context
+### `npm start`
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Acceptance Criteria
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
+### `npm test`
 
-The user should be able to:
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-  * Sort the table by at least one category
+### `npm run build`
 
-  * Filter the users by at least one property.
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Commit Early and Often
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
+## Licence
 
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Follow these guidelines for committing:
+## Contributors
 
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
+![GitHub license](https://img.shields.io/badge/Made%20by-%40Mohamed-Blue)
+Mohamed Saidi
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
 
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
+## GitHub
 
-* Test your application before you commit to ensure functionality at every step in the development process
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
-
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
+- Mohamed Saidi
+- [GitHub Profile](https://github.com/Moesaidi76)
